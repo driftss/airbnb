@@ -1,5 +1,4 @@
 package com.airbnb.pojo;
 
-public class Hotel {
-
+public class Room {
 }
